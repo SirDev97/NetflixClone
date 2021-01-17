@@ -1,2 +1,2 @@
 # NetflixClone
-Netflix landing page
+Netflix landing page clone practicing html, css and some basic js.
